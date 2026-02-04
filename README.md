@@ -20,8 +20,13 @@
 
 ### 📚 Book Inventory Management  
 - Full-stack application to manage library/store books (add, update, search, delete).  
-- **Tech:** React.js, Spring Boot, HTML, CSS  
-
+- **Tech:** React.js, Spring Boot, HTML, CSS
+- 
+### 💰 Pazios
+- Enabling customers to securely manage accounts, check balances, perform transactions, access card services, and maintain
+  customer profiles. Built with a non-monolithic architecture.
+- **Teach:** HTML, CSS, JavaScript,React.js and Spring Boot,featuring RESTful APIs, robust backend business logic,
+   and seamless frontend–backend integration for scalability and maintainability.
 ---
 
 ## 💼 Work Experience
@@ -40,4 +45,4 @@
 
 ## 📫 Connect with Me
 - LinkedIn: [Anushka](https://www.linkedin.com/in/anushka-3b8985222)  
-- Email: **anushka949.hitece2020@gmail.com**
+- Email: **anushkapanday2000@gmail.com**
